@@ -24,4 +24,4 @@ Left- only left palm open
 
 Right- only right palm open
 
-Upcoming feature: 360 degree cursor movement using eye tracking - useful to play games like Call of Duty, Free fire,etc.
+Upcoming feature: 360 degree cursor movement using eye tracking - useful to play games like Call of Duty, GTA etc.
